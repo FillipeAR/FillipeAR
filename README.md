@@ -11,7 +11,6 @@ Desenvolvedor Web focado em Front-end e Back-end
 ## Projetos em destaque
 
 - [engdoc-system](https://github.com/FillipeAR/engdoc-system) - Sistema de documentacao de engenharia
-- [plansector](https://github.com/FillipeAR/plansector) - Ferramenta de planejamento
 - [Cirucit-2.0](https://github.com/FillipeAR/Cirucit-2.0) - Projeto de circuitos, versao 2.0
 
 ## Estatisticas
